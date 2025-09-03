@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Sphinx build
+docs/_build/
+docs/**/_build/
+
+# Windows / OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# PyInstaller / EXE
+dist/
+build/
+*.exe
+*.spec
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ZIP / archives (optional)
+*.zip
+
+# Others
+*.bak
+*.tmp
