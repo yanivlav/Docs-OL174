@@ -10,3 +10,4 @@ C Training Course
 
    chapter1
 
+   test3
